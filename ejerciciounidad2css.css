@@ -1,0 +1,27 @@
+body{
+	display: flex;
+	justify-content: space-between;
+	height: 100%;
+}
+div{
+	width: 24%;
+	height: 300px;
+	box-sizing: border-box;
+	margin: 20px;
+	
+}
+
+.uno, .tres, .cuatro{
+	background: #ff0000;
+	color: #ffff00;
+	font-size: 40px;
+	
+}
+
+.dos{
+	background: #000000;
+	color: #ffffff;
+	font-size: 40px;
+
+	
+}
